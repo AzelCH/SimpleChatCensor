@@ -1,6 +1,6 @@
 <?php
 
-namespace AzelCH\ChatCensor;
+namespace AzelCH\SimpleChatCensor;
 
 use pocketmine\Server;
 use pocketmine\player\Player;
