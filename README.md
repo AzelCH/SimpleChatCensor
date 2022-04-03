@@ -4,8 +4,12 @@
 <p align="center">
     <b>A SkyBlocks plugin for PocketMine-MP, with many features to offer.</b>
 </p>
-<img alt="Stars" src="https://img.shields.io/github/stars/AzelCH/SimpleChatCensor?style=plastic">
-<img alt="Realeses" src="https://img.shields.io/github/v/release/AzelCH/SimpleChatCensor?label=release&sort=semver">
+<p align="center">
+    <img alt="Stars" src="https://img.shields.io/github/stars/AzelCH/SimpleChatCensor?style=plastic">
+</p>
+<p align="center">
+    <img alt="Realeses" src="https://img.shields.io/github/v/release/AzelCH/SimpleChatCensor?label=release&sort=semver">
+</p>
 
 # Features
 - [x] Add words
