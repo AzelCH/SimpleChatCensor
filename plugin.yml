@@ -1,0 +1,5 @@
+name: SimpleChatCensor
+main: AzelCH\SimpleChatCensor\Main
+version: 1.3
+api: 4.0.0
+author: AzelCH
