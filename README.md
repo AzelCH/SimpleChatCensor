@@ -1,6 +1,9 @@
-# SimpleChatCensor
-A simple PocketMine-MP plugin who censor bad words
-
+<h1 align="center">
+    SimpleChatCensor
+</h1>
+<p align="center">
+    <b>A SkyBlocks plugin for PocketMine-MP, with many features to offer.</b>
+</p>
 # Features
 - [x] Add words
 - [x] Custom replace format
