@@ -17,23 +17,5 @@
 - [ ] Bypass
 - [ ] Setting in game
 
-# Configuration
-```---
-#ChatCensor Configuration
-
-#replace format
-replace-format: "****"
-
-#badwords
-#you can add or remove the badwords
-badwords:
-  - "fuck"
-  - "dick"
-  - "pussy"
-  - "tits"
-  - "noob"
-  - "shit"
-  - "cum"
-  
-...
-```
+# Credit
+This plugin using icon from <a href="https://flaticon.com">flaticon.com</a>
