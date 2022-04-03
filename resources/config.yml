@@ -1,0 +1,18 @@
+---
+#ChatCensor Configuration
+
+#replace format
+replace-format: "****"
+
+#badwords
+#you can add or remove the badwords
+badwords:
+  - "fuck"
+  - "dick"
+  - "pussy"
+  - "tits"
+  - "noob"
+  - "shit"
+  - "cum"
+  
+...
